@@ -9,6 +9,7 @@ public class Jarra {//variables de instancia
         this.capacidad=capacidadInicial;
     }
         // Aquí vendrán después los métodos creados en la siguiente fase
+<<<<<<< HEAD
         public void metodoComunitario() {
             // Comentario incluido para pruebas
             System.out.println("Aqui escribimos todos");
@@ -26,3 +27,12 @@ public class Jarra {//variables de instancia
             return ("("+this.capacidad+","+this.cantidad+")");
         }
 }
+=======
+        public void metodoComunitario(){
+        // Comentario incluido para pruebas
+        System.out.println("Aqui escribimos todos");
+    }
+    
+    //Esto lo estoy haciendo desde el navegador, soy la parte D
+}
+>>>>>>> 9a1732545e8b26b676eeabaa2950bdac28b609f5
