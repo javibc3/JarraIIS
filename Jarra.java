@@ -9,6 +9,7 @@ public class Jarra {//variables de instancia
         }
         this.capacidad = capacidadInicial;
     }
+<<<<<<< HEAD
 
     public void llenaDesde(Jarra j) {
         while ((this.cantidad < this.capacidad) && (j.cantidad > 0)) {
@@ -31,5 +32,9 @@ public class Jarra {//variables de instancia
     public String toString(){
         return ("("+this.capacidad+","+this.cantidad+")");
     }
+=======
+    //He eliminado desde el navegador la locura que he provocado JAJAJA
+}
+>>>>>>> a864676f7b64eaba9bb486e445bbde364f4346b5
 
 }
