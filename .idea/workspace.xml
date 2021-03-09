@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15c0d5a-ee05-4589-86e6-804fd2eaa416" name="Default Changelist" comment="A ver, estoy haciendo un commit desde IntelliJ">
-      <change beforePath="$PROJECT_DIR$/Jarra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jarra.java" afterDir="false" />
-    </list>
+    <list default="true" id="b15c0d5a-ee05-4589-86e6-804fd2eaa416" name="Default Changelist" comment="A ver, estoy haciendo un commit desde IntelliJ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615280011893</updated>
-      <workItem from="1615280013509" duration="1058000" />
+      <workItem from="1615280013509" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="A ver, estoy haciendo un commit desde IntelliJ">
       <created>1615280839861</created>
