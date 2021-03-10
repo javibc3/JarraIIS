@@ -29,10 +29,12 @@
 	public int cantidad(){
 		return this.cantidad;
 	}
-        public void metodoComunitario(){
+
+    public void metodoComunitario(){
         // Comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
     }
+    
     public String toString(){
         return ("("+this.capacidad+","+this.cantidad+")");
     }
